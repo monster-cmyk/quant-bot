@@ -4,3 +4,4 @@ beautifulsoup4
 requests
 finance-datareader
 beautifulsoup4
+plotly
